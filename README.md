@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### The main purpose of this challange is to recreate the given page design without the usage of a modern text editor, html/css documentation or code preview.
+### The main purpose of this challenge is to recreate the given page design without the usage of a modern text editor, html/css documentation or code preview.
 
 ## Rulles
 * You have 15 minutes to achieve your best result.
@@ -14,8 +14,8 @@
 ## Instructions
 * Go to http://collabedit.com.
 * Select 'Create a new document' and select 'HTML' as a programming language.
-* Use given code as a starting point for your challange.
-* When time is up, send your collabedit url to the challange host.
+* Use given code as a starting point for your challenge.
+* When time is up, send your collabedit url to the challenge host.
 
 
 ## Starting code
